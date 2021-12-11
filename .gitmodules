@@ -24,7 +24,7 @@
 	url = https://github.com.cnpmjs.org/topjohnwu/mincrypt.git
 [submodule "pcre"]
 	path = native/jni/external/pcre
-	url = https://android.googlesource.com/platform/external/pcre
+	url = https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/pcre
 [submodule "xhook"]
 	path = native/jni/external/xhook
 	url = https://github.com.cnpmjs.org/iqiyi/xHook.git
@@ -33,7 +33,7 @@
 	url = https://github.com.cnpmjs.org/topjohnwu/libcxx.git
 [submodule "zlib"]
 	path = native/jni/external/zlib
-	url = https://android.googlesource.com/platform/external/zlib
+	url = https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/zlib
 [submodule "parallel-hashmap"]
 	path = native/jni/external/parallel-hashmap
 	url = https://github.com.cnpmjs.org/greg7mdp/parallel-hashmap.git
